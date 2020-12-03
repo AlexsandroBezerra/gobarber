@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with :purple_heart: by Alexsandro G Bezerra :wave: &nbsp;[Veja meu Linkedin](https://www.linkedin.com/in/alexsandrobezerra)
+Made with :purple_heart: by Alexsandro G Bezerra :wave: &nbsp;[See my Linkedin](https://www.linkedin.com/in/alexsandrobezerra)
