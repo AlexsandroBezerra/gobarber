@@ -23,8 +23,8 @@ Here are the links to them:
 
 ## :pencil: License
 
-Esse projeto está sobre a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feito com :purple_heart: &nbsp;por Alexsandro G Bezerra :wave: &nbsp;[Veja meu Linkedin](https://www.linkedin.com/in/alexsandrobezerra)
+Made with :purple_heart: by Alexsandro G Bezerra :wave: &nbsp;[Veja meu Linkedin](https://www.linkedin.com/in/alexsandrobezerra)
