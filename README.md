@@ -1,25 +1,29 @@
-# GoBarber
+<h1 align="center">
+	<img alt="GoStack" src=".github/assets/logo.svg" width="200px" />
+</h1>
 
 ✂️ GoBarber - Um app de agendamento de serviços de barbearia.
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/alexsandrobezerra" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Alexsandro%20G%20Bezerra-%23FF9000"></a>
-  <a href="https://github.com/AlexSEH/GoBarber/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/AlexSRH/GoBarber?color=%23FF9000"></a>
+  <a href="https://github.com/AlexsandroBezerra/GoBarber/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/AlexSRH/GoBarber?color=%23FF9000"></a>
 </p>
 
-## :construction: Área em construção :construction:
 
-## Olá! As coisas estão um pouco diferentes aqui.
+![GoBarber-Layout](.github/assets/gobarber.png)
 
-Por motivos de organização do projeto, as aplicações será dividida em 3 repositórios diferentes.
 
-Link dos repositórios:
+## Hello! I made some changes here, and there is no code here.
 
-- [Backend (Rest API)](https://github.com/AlexsandroBezerra/gobarber-backend)
-- [Cliente WEB](https://github.com/AlexsandroBezerra/gobarber-web)
-- [Cliente mobile](https://github.com/AlexsandroBezerra/gobarber-mobile)
+To make this project more organized, I moved the applications (rest api, web client, mobile client) to 3 different repositories.
 
-## 📝 Licença
+Here are the links to them:
+
+- [REST API](https://github.com/AlexsandroBezerra/gobarber-backend)
+- [Web client](https://github.com/AlexsandroBezerra/gobarber-web)
+- [Mobile client](https://github.com/AlexsandroBezerra/gobarber-mobile)
+
+## 📝 License
 
 Esse projeto está sobre a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
